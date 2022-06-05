@@ -1,0 +1,43 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch controledeacessojeo",
+            "request": "launch",
+            "mainClass": "com.mycompany.controledeacessojeo",
+            "projectName": "PrimeiroPrograma"
+        },
+        {
+            "type": "java",
+            "name": "Launch Controledeacessos",
+            "request": "launch",
+            "mainClass": "com.mycompany.Controledeacessos.Controledeacessos",
+            "projectName": "PrimeiroPrograma"
+        },
+        {
+            "type": "java",
+            "name": "Launch Questao4",
+            "request": "launch",
+            "mainClass": "com.mycompany.Questao.Questao4",
+            "projectName": "PrimeiroPrograma"
+        },
+        {
+            "type": "java",
+            "name": "Launch Questao2",
+            "request": "launch",
+            "mainClass": "com.mycompany.Questao.Questao2",
+            "projectName": "PrimeiroPrograma"
+        },
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}

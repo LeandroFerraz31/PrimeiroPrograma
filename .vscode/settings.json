@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*java": "java"
+    },
+    "sync.gist": "Sync",
+    "sync.forceDownload": true,
+    "sync.autoDownload": true,
+    "sync.autoUpload": true,
+    "sync.forceUpload": true
+}
